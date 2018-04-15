@@ -1,0 +1,9 @@
+*.swp
+*.o
+/src/obj
+*.kicad_pcb-bak
+*.drl
+*.gbr
+*.bak
+
+
